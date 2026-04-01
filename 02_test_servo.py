@@ -38,8 +38,6 @@ def task_pan():
 
 def main():
     try:
-        min = 5
-        max = 175
         
         while True:
             task_pan()
